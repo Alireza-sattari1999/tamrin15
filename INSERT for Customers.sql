@@ -1,0 +1,1 @@
+INSERT INTO Customers VALUES ('123','mohamad','london','england');
