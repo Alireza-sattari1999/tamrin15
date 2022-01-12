@@ -1,1 +1,0 @@
-SELECT * FROM Products WHERE price > 30000;
